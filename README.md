@@ -1,3 +1,4 @@
 # Magdik
 
-Tento repozitáø jsem si zaloila pro splnìní úkolu do pøedmìtu Nástrojù a moností internetu.
+Tento repozitÃ¡Å™ jsem si zaloÅ¾ila pro splnÄ›nÃ­ Ãºkolu do pÅ™edmÄ›tu NÃ¡strojÅ¯ a moÅ¾nostÃ­ internetu.
+
